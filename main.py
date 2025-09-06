@@ -8,7 +8,6 @@ import sqlite3
 import logging
 from datetime import datetime
 import json
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError, Error as PlaywrightError
 import time
 import re
 import asyncio
