@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "tZm5Y5sDgVNhbWJkvPOl5UK6zeP92RpIdGGVT_dGzgg-1757108800-1.0.1.1-0NdyaT7I722GAtxsYBd.nadtNLsi1gf0s8SBmSOAdnV1TDCxGMREPs_oNLOXze9yi38RZRj23SoNqXWuBtUQ1mcnmLKKCHPeHAFZS29hNd8",
+      "domain": "agents.ichancy.com",
+      "path": "/",
+      "expires": 1756935607,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "Mk0fpdlPvuOYEwzKzsoYeuwEGw8S0h89fbaiSTaUL8s-1757108816-1.2.1.1-QNZDQl_zs4w2P0WhFN_bFSHs1xXs6usa2fOTFBd1NAKQPiqC6hAu65yOF2rxnUVZpPwHygHjxM6ROIhdxP9AHiX1HDTt1mW98FDz24_kMUQm44JK7dwf3dV4YeH64sVYZBgq1tiXGv6LijKh4DoiXr7B3xyvpDuztP1Jz0EJ7QpTa.1RG1uPAAgO7CHBJP_6kYrUOHXPKhSS4ZkNHLJd7FCJRHc58mZrjJ6jluHK4Lc",
+      "domain": "agents.ichancy.com",
+      "path": "/",
+      "expires": 1756935628,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "languageCode",
+      "value": "ar_IQ",
+      "domain": "agents.ichancy.com",
+      "path": "/",
+      "expires": 1924992000,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID_3a07edcde6f57a008f3251235df79776a424dd7623e40d4250e37e4f1f15fadf",
+      "value": "6bd79aa0ea80d755ca459ca734a3f068",
+      "domain": "agents.ichancy.com",
+      "path": "/",
+      "expires": 1924992000,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
